@@ -1,0 +1,28 @@
+📊 IB Research Summary
+Date: 2026-03-10 22:11
+
+Topic: Oil Outlook
+
+──────────────────────────────────────────────────
+🏦 Individual Bank Views
+──────────────────────────────────────────────────
+
+🟢 Goldman Sachs: Target $85
+⚪ JPMorgan: Target $82
+🔴 Morgan Stanley: Target $78
+
+──────────────────────────────────────────────────
+📈 Consensus Analysis
+──────────────────────────────────────────────────
+
+Consensus target: $82
+Range: $78 - $85
+Coverage: 3 banks
+
+Bull case probability: 33%
+Bear case probability: 33%
+Neutral case probability: 33%
+
+──────────────────────────────────────────────────
+⚠️  Disclaimer: For informational purposes only.
+   Data aggregated from public sources.

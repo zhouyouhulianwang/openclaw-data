@@ -1,0 +1,27 @@
+📊 IB Research Summary
+Date: 2026-03-10 22:11
+
+Topic: Bitcoin Outlook
+
+──────────────────────────────────────────────────
+🏦 Individual Bank Views
+──────────────────────────────────────────────────
+
+🟢 Goldman Sachs: Target $95,000
+⚪ JPMorgan: Target $88,000
+
+──────────────────────────────────────────────────
+📈 Consensus Analysis
+──────────────────────────────────────────────────
+
+Consensus target: $91,500
+Range: $88,000 - $95,000
+Coverage: 2 banks
+
+Bull case probability: 50%
+Bear case probability: 0%
+Neutral case probability: 50%
+
+──────────────────────────────────────────────────
+⚠️  Disclaimer: For informational purposes only.
+   Data aggregated from public sources.
