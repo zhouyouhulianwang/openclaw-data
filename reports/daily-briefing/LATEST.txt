@@ -1,50 +1,50 @@
 📰 Daily Morning Briefing
-📅 2026-03-10 Tuesday
-⏰ Generated at: 22:35 CST
+📅 2026-03-11 Wednesday
+⏰ Generated at: 08:00 CST
 
 ============================================================
 
 🔥 科技新闻
 ----------------------------------------
 
-1. Legora reaches $5.55 billion valuation as AI legaltech boom endures
+1. In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/
+   🔗 https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/
 
-2. Meta acquired Moltbook, the AI agent social network that went viral because of fake posts
+2. Google and Tesla think we’re managing the electrical grid all wrong
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/
+   🔗 https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/
 
-3. YouTube expands AI deepfake detection for politicians, government officials, and journalists
+3. Amazon launches its healthcare AI assistant on its website and app
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/youtube-ai-deepfake-detection-politicians-government-officials-journalists/
+   🔗 https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/
 
-4. Adobe is debuting an AI assistant for Photoshop
+4. DOGE employee stole Social Security data and put it on a thumb drive, report says
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/
+   🔗 https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/
 
-5. Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month
+5. &#8216;Pokémon Pokopia&#8217; is a game about rehabilitating a broken world — and I love it
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/
+   🔗 https://techcrunch.com/2026/03/10/pokemon-pokopia-review-animal-crossing-ditto-nintendo-switch/
 
 
 🤖 AI动态
 ----------------------------------------
 
-1. Agentic AI in finance speeds up operational automation
+1. ABB: Physical AI simulation boosts ROI for factory automation
+   📰 AI News
+   📝 A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automat...
+   🔗 https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/
+
+2. Agentic AI in finance speeds up operational automation
    📰 AI News
    📝 In finance, achieving operational automation by integrating agentic AI requires a data-centric found...
    🔗 https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/
 
-2. Mastercard brings agentic payments to life in Singapore with DBS and UOB
+3. Mastercard brings agentic payments to life in Singapore with DBS and UOB
    📰 AI News
    📝 Mastercard has completed its first live, authenticated agent-based payment transaction in Singapore,...
    🔗 https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/
 
-3. AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it
-   📰 AI News
-   📝 AI insurance underwriting has been called the next frontier of insurtech for years. The difference n...
-   🔗 https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/
-
-4. UK sovereign AI fund to build up domestic computing infrastructure
+4. AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it
    📰 AI News
