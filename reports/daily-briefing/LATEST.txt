@@ -1,5 +1,5 @@
 📰 Daily Morning Briefing
-📅 2026-03-11 Wednesday
+📅 2026-03-12 Thursday
 ⏰ Generated at: 08:00 CST
 
 ============================================================
@@ -7,44 +7,44 @@
 🔥 科技新闻
 ----------------------------------------
 
-1. In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature
+1. AI &#8216;actor&#8217; Tilly Norwood put out the worst song I&#8217;ve ever heard
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/
+   🔗 https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/
 
-2. Google and Tesla think we’re managing the electrical grid all wrong
+2. Nuro is testing its autonomous vehicle tech on Tokyo&#8217;s streets
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/
+   🔗 https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/
 
-3. Amazon launches its healthcare AI assistant on its website and app
+3. Google Play is adding new paid and PC games, game trials, community posts, and more
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/
+   🔗 https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/
 
-4. DOGE employee stole Social Security data and put it on a thumb drive, report says
+4. Ford&#8217;s new AI assistant will help fleet owners know if seatbelts are being used
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/
+   🔗 https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/
 
-5. &#8216;Pokémon Pokopia&#8217; is a game about rehabilitating a broken world — and I love it
+5. Ride-hailing inDrive acquires Pakistan&#8217;s Krave Mart to bolster grocery delivery
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/10/pokemon-pokopia-review-animal-crossing-ditto-nintendo-switch/
+   🔗 https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/
 
 
 🤖 AI动态
 ----------------------------------------
 
-1. ABB: Physical AI simulation boosts ROI for factory automation
+1. Ai2: Building physical AI with virtual simulation data
    📰 AI News
-   📝 A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automat...
-   🔗 https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/
+   📝 Virtual simulation data is driving the development of physical AI across corporate environments, led...
+   🔗 https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/
 
-2. Agentic AI in finance speeds up operational automation
+2. New partnership to offer smart robots for dangerous environments
    📰 AI News
-   📝 In finance, achieving operational automation by integrating agentic AI requires a data-centric found...
-   🔗 https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/
+   📝 ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control...
+   🔗 https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/
 
-3. Mastercard brings agentic payments to life in Singapore with DBS and UOB
+3. Manulife moves AI agents into core financial workflows
    📰 AI News
-   📝 Mastercard has completed its first live, authenticated agent-based payment transaction in Singapore,...
-   🔗 https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/
+   📝 Large financial firms have spent years testing artificial intelligence in small projects, often limi...
+   🔗 https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/
 
-4. AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it
+4. How physical AI integration accelerates vehicle innovation
    📰 AI News
