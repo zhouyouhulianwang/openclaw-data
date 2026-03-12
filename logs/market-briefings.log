@@ -37,3 +37,13 @@ Changes not staged for commit:
 	modified:   logs/market-briefings.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[2026-03-12 17:00:01] 生成A股/港股晨报...
+[2026-03-12 17:00:01] ✅ A股/港股晨报已保存: CNHKMarketBrief/2026-03-12_CNHKMarketBrief.md
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs/backup.log
+	modified:   logs/market-briefings.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
