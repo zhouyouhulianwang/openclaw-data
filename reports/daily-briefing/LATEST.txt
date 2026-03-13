@@ -1,5 +1,5 @@
 📰 Daily Morning Briefing
-📅 2026-03-12 Thursday
+📅 2026-03-13 Friday
 ⏰ Generated at: 08:00 CST
 
 ============================================================
@@ -7,44 +7,44 @@
 🔥 科技新闻
 ----------------------------------------
 
-1. AI &#8216;actor&#8217; Tilly Norwood put out the worst song I&#8217;ve ever heard
+1. How to watch Jensen Huang’s Nvidia GTC 2026 keynote
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/
+   🔗 https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/
 
-2. Nuro is testing its autonomous vehicle tech on Tokyo&#8217;s streets
+2. Sales automation startup Rox AI hits $1.2B valuation, sources say
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/
+   🔗 https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/
 
-3. Google Play is adding new paid and PC games, game trials, community posts, and more
+3. Channel Surfer lets you watch YouTube like it&#8217;s old-school cable TV
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/
+   🔗 https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/
 
-4. Ford&#8217;s new AI assistant will help fleet owners know if seatbelts are being used
+4. Why Rivian is holding the $45,000 base model R2 until &#8216;late 2027&#8217;
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/
+   🔗 https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/
 
-5. Ride-hailing inDrive acquires Pakistan&#8217;s Krave Mart to bolster grocery delivery
+5. Substack launches a built-in recording studio
    📰 TechCrunch
-   🔗 https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/
+   🔗 https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/
 
 
 🤖 AI动态
 ----------------------------------------
 
-1. Ai2: Building physical AI with virtual simulation data
+1. How multi-agent AI economics influence business automation
+   📰 AI News
+   📝 Managing the economics of multi-agent AI now dictates the financial viability of modern business aut...
+   🔗 https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/
+
+2. FIFA is rebuilding world football operations on AI. The World Cup is just the first test
+   📰 AI News
+   📝 When Romy Gai, FIFA&#8217;s chief business officer, described the operational challenge of running a...
+   🔗 https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/
+
+3. Ai2: Building physical AI with virtual simulation data
    📰 AI News
    📝 Virtual simulation data is driving the development of physical AI across corporate environments, led...
    🔗 https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/
 
-2. New partnership to offer smart robots for dangerous environments
-   📰 AI News
-   📝 ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control...
-   🔗 https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/
-
-3. Manulife moves AI agents into core financial workflows
-   📰 AI News
-   📝 Large financial firms have spent years testing artificial intelligence in small projects, often limi...
-   🔗 https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/
-
-4. How physical AI integration accelerates vehicle innovation
+4. New partnership to offer smart robots for dangerous environments
    📰 AI News
